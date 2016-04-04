@@ -1,0 +1,36 @@
+.custom-bg1{
+	background: url(../img/custom-bg/custom-bg1.jpg);
+}
+.custom-bg2{
+	background: url(../img/custom-bg/gallery_kitchen2.jpg)top center no-repeat; /*Good*/
+}
+.custom-bg3{
+	background: url(../img/custom-bg/contact_picture_big.jpg)top center no-repeat;
+       
+}
+.custom-bg4{
+	background: url(../img/custom-bg/about_pic.jpg);
+}
+.custom-bg5{
+	background: url(../img/custom-bg/custom-bg7.jpg);
+}
+.custom-bg6{
+	background: url(../img/custom-bg/custom-bg8.jpg);
+}
+.custom-bg7{
+	background: url(../img/custom-bg/custom-bg9.jpg);
+}
+.custom-bg8{
+	background: url(../img/custom-bg/carpentry_wallpaperhd.jpg);
+}
+
+@media(max-width: 768px) {
+    .custom-bg2{
+            background: url(../img/custom-bg/small_gallery.jpg)top center no-repeat; /*Good*/
+    }
+    .custom-bg3{
+            background: url(../img/custom-bg/contact_picture_small.jpg)top center no-repeat;
+            background-position: top center;
+    }
+    
+}
