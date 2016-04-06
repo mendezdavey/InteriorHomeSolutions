@@ -74,8 +74,8 @@ We strive to keep our services competitive in value and pricing, and our company
                             <img src="img/team/entertainment_center.jpg" alt="Entertainment Center">
                             <div class="overlay">
                                 <div class="overlay-details">
-                                    <h3>Gustave Bernier</h3>
-                                    <p>Executive Chef</p>
+                                    <h3>Entertainment Center</h3>
+                                    <p>Interior Home Solutions</p>
                                 </div><!-- /overlay-details -->
                                 <div class="buttons-container">
                                     <a href="#" class="button-link"></a>
@@ -87,8 +87,8 @@ We strive to keep our services competitive in value and pricing, and our company
                             <img src="img/team/entertainment_center.jpg" alt="Entertainment Center">
                             <div class="overlay">
                                 <div class="overlay-details">
-                                    <h3>Gustave Bernier</h3>
-                                    <p>Executive Chef</p>
+                                    <h3>Entertainment Center</h3>
+                                    <p>Interior Home Solutions</p>
                                 </div><!-- /overlay-details -->
                                 <div class="buttons-container">
                                     <a href="#" class="button-link"></a>
@@ -100,8 +100,8 @@ We strive to keep our services competitive in value and pricing, and our company
                             <img src="img/team/entertainment_center.jpg" alt="Entertainment Center">
                             <div class="overlay">
                                 <div class="overlay-details">
-                                    <h3>Gustave Bernier</h3>
-                                    <p>Executive Chef</p>
+                                    <h3>Entertainment Center</h3>
+                                    <p>Interior Home Solutions</p>
                                 </div><!-- /overlay-details -->
                                 <div class="buttons-container">
                                     <a href="#" class="button-link"></a>
@@ -113,8 +113,8 @@ We strive to keep our services competitive in value and pricing, and our company
                             <img src="img/team/entertainment_center.jpg" alt="Entertainment Center">
                             <div class="overlay">
                                 <div class="overlay-details">
-                                    <h3>Gustave Bernier</h3>
-                                    <p>Executive Chef</p>
+                                    <h3>Entertainment Center</h3>
+                                    <p>Interior Home Solutions</p>
                                 </div><!-- /overlay-details -->
                                 <div class="buttons-container">
                                     <a href="#" class="button-link"></a>
@@ -126,8 +126,8 @@ We strive to keep our services competitive in value and pricing, and our company
                             <img src="img/team/entertainment_center.jpg" alt="Entertainment Center">
                             <div class="overlay">
                                 <div class="overlay-details">
-                                    <h3>Gustave Bernier</h3>
-                                    <p>Executive Chef</p>
+                                    <h3>Entertainment Center</h3>
+                                    <p>Interior Home Solutions</p>
                                 </div><!-- /overlay-details -->
                                 <div class="buttons-container">
                                     <a href="#" class="button-link"></a>
@@ -139,8 +139,8 @@ We strive to keep our services competitive in value and pricing, and our company
                             <img src="img/team/entertainment_center.jpg" alt="Entertainment Center">
                             <div class="overlay">
                                 <div class="overlay-details">
-                                    <h3>Gustave Bernier</h3>
-                                    <p>Executive Chef</p>
+                                    <h3>Entertainment Center</h3>
+                                    <p>Interior Home Solutions</p>
                                 </div><!-- /overlay-details -->
                                 <div class="buttons-container">
                                     <a href="#" class="button-link"></a>
@@ -156,7 +156,7 @@ We strive to keep our services competitive in value and pricing, and our company
                 </div><!-- /promo -->
             </section>
             
-            <section class="testimonials dark-bg custom-bg3 parallax" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-100">
+            <section class="testimonials dark-bg custom-bg4 parallax" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-100">
                 <div class="container">
                     <div class="row">
                         <header class="section-title wow fadeInUp">

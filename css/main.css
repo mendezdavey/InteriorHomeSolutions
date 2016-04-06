@@ -2111,7 +2111,7 @@ form button:hover{
 .testimonials .testimonial-container{
     padding-top: 72px;
     background: url(../img/template-assets/quote-mark.png) no-repeat;
-    background-position: center top;    
+    background-position: center top no-repeat;    
 }
 .testimonials .testimonial-container .testimonial{
     text-align: center;

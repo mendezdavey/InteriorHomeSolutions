@@ -2,14 +2,14 @@
 	background: url(../img/custom-bg/custom-bg1.jpg);
 }
 .custom-bg2{
-	background: url(../img/custom-bg/gallery_kitchen2.jpg)top center no-repeat; /*Good*/
+	background: url(../img/custom-bg/gallery_kitchen2000x1125.jpg)top center no-repeat; /*Good*/
 }
 .custom-bg3{
-	background: url(../img/custom-bg/contact_picture_big.jpg)top center no-repeat;
+	background: url(../img/custom-bg/contact_picture_small.jpg)top center no-repeat;
        
 }
 .custom-bg4{
-	background: url(../img/custom-bg/about_pic.jpg);
+	background: url(../img/custom-bg/gallery_kitchen_small.jpg)top center no-repeat;
 }
 .custom-bg5{
 	background: url(../img/custom-bg/custom-bg7.jpg);
@@ -24,13 +24,41 @@
 	background: url(../img/custom-bg/carpentry_wallpaperhd.jpg);
 }
 
-@media(max-width: 768px) {
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
     .custom-bg2{
-            background: url(../img/custom-bg/small_gallery.jpg)top center no-repeat; /*Good*/
+            background: url(../img/custom-bg/gallery_kitchen2000x1125.jpg)top center no-repeat; /*Good*/
     }
     .custom-bg3{
-            background: url(../img/custom-bg/contact_picture_small.jpg)top center no-repeat;
-            background-position: top center;
+            background: url(../img/custom-bg/contact_kitchen2000x1112.jpg)top center no-repeat;       
+    }
+    .custom-bg4{
+            background: url(../img/custom-bg/about_kitchen3000x1638.jpg) no-repeat;
+    }    
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .custom-bg2{
+            background: url(../img/custom-bg/gallery_kitchen2000x1125.jpg)top center no-repeat; /*Good*/
+    }
+    .custom-bg3{
+            background: url(../img/custom-bg/contact_kitchen2000x1112.jpg) no-repeat;       
+    }
+    .custom-bg4{
+	background: url(../img/custom-bg/about_kitchen4000x2184.jpg) no-repeat;
+    }
+}
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .custom-bg2{
+            background: url(../img/custom-bg/gallery_kitchen2.jpg)0% 350% no-repeat; /*Good*/
+    }    
+    .custom-bg3{
+            background: url(../img/custom-bg/contact_kitchen.jpg)0% 600% no-repeat;       
+    }
+    .custom-bg4{
+	background: url(../img/custom-bg/gallery_kitchen.jpg)300% 300% ;
     }
     
 }
