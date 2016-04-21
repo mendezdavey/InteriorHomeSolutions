@@ -1,5 +1,5 @@
 <?php 
-	define("TITLE", "Home | David Mendez");
+	define("TITLE", "Contact Us| Interior Home Solutions");
 	include('php/head.php'); 
 ?>
 <?php 
@@ -16,8 +16,8 @@
                    <div class="top-banner">
                        <div class="top-image">
                             <header class="section-title">
-                                <h1 class="dark-tb"><span>Interior</span> Home Solutions</h1>
-                                <h3 class="learn-more">Learn why you should choose us for your next home renovation.</h3>
+                                <h1 class="background-box">Interior Home Solutions</h1>
+                                <h3 class="background-box .learn-more">Learn why you should choose us for your next home renovation.</h3>
                             </header>      
                        </div><!-- /top-image -->
                        <div class="bottom-image">
@@ -47,29 +47,13 @@
                             <header class="section-title">
                                 <h2><span>Online</span> Form</h2>
                             </header>
-                            <form action="#" class="reservation-form">
-                                <div class="row">
-                                    <div class="input-container col-md-6">
-                                        <input type="text" name="reservation-fname" id="reservation-fname" placeholder="First Name*">
-                                    </div><!-- /input-container -->
-                                    <div class="input-container col-md-6">
-                                        <input type="text" name="reservation-lname" id="reservation-lname" placeholder="Last Name*">
-                                    </div><!-- /input-container -->
-                                    <div class="input-container col-md-6">
-                                        <input type="text" name="reservation-phone" id="reservation-phone" placeholder="Phone*">
-                                    </div><!-- /input-container -->
-                                    <div class="input-container col-md-6">
-                                        <input type="text" name="reservation-email" id="reservation-email" placeholder="Email*">
-                                    </div><!-- /input-container -->
-                         
-                                    <div class="input-container col-md-12">
-                                        <textarea name="reservation-comment" id="reservation-comment" placeholder="Comment" rows="5"></textarea>
-                                    </div><!-- /input-container -->
-                                    <div class="input-container col-md-12">
-                                        <button type="submit" class="custom-button button-style1"><i class="icon-eye"></i>Send</button>
-                                    </div><!-- /input-container -->
-                               </div><!-- /row -->
-                           </form>
+                                <form id="contact-form" method="post" action="php/contact.php">
+                                    <input type="text" id="name" name="name" placeholder="Name*" required>
+                                    <input type="email" id="email" name="email" placeholder="Email*" required>
+                                    <textarea id="message" name="message" rows="6" placeholder="Message" required></textarea>
+                                    <button type="submit">Send Message</button>
+                                </form>
+                                <div id="form-messages"></div>
                        </div><!-- /col-md-6 -->
                        <div class="col-md-6 wow fadeInRight">
                            <div class="reservation-by-phone">
@@ -79,17 +63,16 @@
                                <div class="contact-info">
                                    <figure><img src="img/template-assets/icon-phone.png" alt="Marine Food Calling Info"></figure>
                                     <div class="info-container">
-                                       <h3 class="phone-number">(512) <span>124-5678</span></h3>
-                                       <p class="call-time">Monday to Friday.</p>
+                                       <h3 class="phone-number">(512) <span>486-9996</span></h3>
+                                       <p class="call-time">Mon-Sat 7:00AM-6:00PM</p>
                                    </div><!-- /info-container -->
                                </div><!-- /call-info -->
                                <address class="contact-info">
                                    <figure><img src="img/template-assets/icon-map-pin.png" alt="Marine Food Calling Info"></figure>
                                    <div class="info-container">
                                        <p>Interior Home Solutions.</p>
-                                       <p>PO Box 21177 </p>
-                                       <p>Austin, Texas </p>
-                                       <p>308 E wonsley Austin, Texas</p>
+                                       <p>Austin, Texas 78753 </p>
+                                     
                                    </div><!-- /info-container -->
                                </address>
                            </div><!-- /reservation-by-phone -->

@@ -70,7 +70,7 @@
                                     data-speed="700"
                                     data-easing="Expo.easeOut">
                                     <!--<hr class="white-line">-->
-                                    <h2 class=""
+                                    <h2 class="white-text"
                                         data-when="exit"
                                         data-from="0"
                                         data-to="0.4"
@@ -121,7 +121,7 @@
                                     data-start="4000"
                                     data-speed="800"
                                     data-easing="Power2.easeInOut">
-                                    <a href="#" class="custom-button button-style1 animateme"
+                                    <a href="about.php" class="custom-button button-style1 animateme"
                                         data-when="exit"
                                         data-from="0"
                                         data-to="0.6"
@@ -193,7 +193,7 @@
                                     data-speed="700"
                                     data-easing="Expo.easeOut">
                                     <!--<hr class="white-line">-->
-                                    <h2 class=""
+                                    <h2 class="white-text"
                                         data-when="exit"
                                         data-from="0"
                                         data-to="0.4"
@@ -244,7 +244,7 @@
                                     data-start="4000"
                                     data-speed="800"
                                     data-easing="Power2.easeInOut">
-                                    <a href="#" class="custom-button button-style1 animateme"
+                                    <a href="about.php" class="custom-button button-style1 animateme"
                                         data-when="exit"
                                         data-from="0"
                                         data-to="0.6"

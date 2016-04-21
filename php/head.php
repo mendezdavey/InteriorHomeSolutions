@@ -7,10 +7,11 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title><?php echo TITLE; ?></title>
-        <meta name="description" content="Food And Restaurant HTML Template">
+        <meta name="description" content="Interior Home Solutions Custom Cabinets and interior trim. Interior Home Solutions has been serving the greater Austin Area since 1989 and are expected to continue serving our customers for many years to come.">
+        
         <meta name="viewport" content="width=device-width, initial-scale=1">        
         <meta name="theme-color" content="#23292c"> <!-- Android 5.0 Tab Color -->
-        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="shortcut icon" href="img/alex_pics/entertainment_centers.jpg">
 
         <!-- Web Fonts -->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700,300,400' rel='stylesheet' type='text/css'>

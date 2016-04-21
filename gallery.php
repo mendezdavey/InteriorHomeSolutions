@@ -16,8 +16,8 @@
                     <div class="top-banner">
                         <div class="top-image">
                             <header class="section-title">
-                                <h1 class="page_titles"><span>Interior</span> Home Solutions</h1>
-                                <h3 class="learn-more">We invite you to look at all of our projects and work pictures.</h3>
+                                <h1 class="background-box page_titles">Interior Home Solutions</h1>
+                                <h3 class="background-box learn-more">We invite you to look at all of our projects and work pictures.</h3>
                             </header>         
                         </div><!-- /top-image -->
                         <div class="bottom-image">
@@ -34,8 +34,8 @@
                         <div class="col-md-8 col-md-offset-2 wow fadeInDown">
                             <header class="section-title">
                                 <h1><span>Our</span> Gallery</h1>
-                                <p>All of our cabinets are patiently hand crafted and originally inspired to provide your home with 
-                                beautiful cabinets that will wow your friends and family.</p>
+                                <p>All of our cabinets are patiently hand crafted and originally inspired, to provide your home with 
+                                elegant show pieces.</p>
                             </header>
                         </div><!-- /col-md-8 -->
                         <div class="col-md-12 wow fadeInDown">
@@ -234,8 +234,9 @@
                         <div class="col-md-8 col-md-offset-2 wow fadeInDown">
                             <header class="section-title">
                                 <h1>Serving Austin <span>Texas</span></h1>
-                                <p>We love to work on everything that is wood. Serving the Austin are for 12 years.</p></br>
-                                <h4><span>Call Us</span> 512 123-4567</h4>
+                                <p>Interior Home Solutions has been serving the greater Austin Area since 1989 and are expected to continue serving our customers for many years to come.</p>
+                                </br>
+                                <h4><span><img src="img/template-assets/phone-icon.png" alt="Interior Home Solutions Phone Number"></span> 512 486-9996</h4>
                             </header>
                         </div><!-- /col-md-8 -->
   

@@ -20,7 +20,7 @@
         <div class="main-nav-container dark">
             <div class="main-nav-inner">
                 <div class="logo-container">
-                    <a href="#">
+                    <a href="index.php">
                         <h3>Interior Home Solutions</h3></br>
                         <h6>Custom Cabinets and Interior Trim</h6>
                         <!--<img src="img/logo/logo.png" alt="Marine Food Logo">-->
@@ -34,17 +34,14 @@
                         <li class="<?php echo RESERVATION; ?>"><a href="reservation.php">Contact Us</a></li>
                     </ul>
                 </nav>
-                <div class="tweets-container">
-                    <div class="twitter-logo">
-                        <i class="fa fa-twitter"></i>
-                    </div><!-- /twitter-logo -->
-                    <div class="tweet"></div>
-                </div><!-- /tweets-container -->
+               
+
                 <div class="socials-container">
                     <ul>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.facebook.com/Interior-Home-Solutions-290618974400909/reviews?ref=page_internal"><i class="fa fa-facebook"></i></a></li>
+                        <!-- ADD LATER
                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                        <li><a href="#"><i class="fa fa-skype"></i></a></li>-->
                     </ul>
                 </div><!-- /socials-container -->
                 <div class="copyright">

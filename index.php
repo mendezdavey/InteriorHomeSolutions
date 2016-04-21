@@ -1,5 +1,5 @@
 <?php 
-	define("TITLE", "Home | David Mendez");
+	define("TITLE", "Home | Interior Home Solutions - (512) 486-9996 Custom Cabinets and interior trim");
 	include('php/head.php'); 
 ?>
 <?php 
@@ -14,9 +14,12 @@
             <!-- *********************************** End main-header *************************************************************-->
             
             <!-- ***********************************Team Section ****************************************************************-->
-          
-
+           <!-- remove video 
+            <section id="video">
+                <iframe class="video" height="800px"width="100%" src="https://www.youtube.com/embed/qHBjHLwjeDU" frameborder="0" allowfullscreen></iframe>
+            </section>-->
             <section class="gallery dark-bg" id="gallery">
+                
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 wow fadeInDown">

@@ -9,30 +9,45 @@ Notes:	 building a bootstrap website for Rodrigo Rodriguez
 
 */
 /*------------------------
+	Video
+------------------------*/
+.video{
+   text-align: center;
+}
+#video{
+    margin: 0 0 -5px 0;
+    padding: 0px;
+    background-color: black;
+    
+}
+/*------------------------
 	Typography
 ------------------------*/
-.section-title h1{
-    color: rgb(35, 50, 58);
-    color: white;
+/*links*/
+a{
+    color: #8a9eae;;
 }
-.section-title h1{
-    font-size: 60px;
-    line-height: 1.5em;
-    margin-bottom: 23px;
-    
-    
+/*Increase readability*/
+.background-box{
+    /*background: rgba(255,50,9,.2);*/
+    background: rgba(0,0,0,0);
 }
-.page_titles{
-    color: white;
-}
-.dark-tb{
-    color: #eee;
-    
-}
+/* Section Titles */
 .section-title h3{
+   
+    color: white;
+    font-size: 2.1em;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+.section-title h1{
     color: rgb(35, 50, 58);
     color: white;
+    padding: 0;
+    margin: 0;
 }
+
 .logo {
     padding:0;
     font-family: 'Great Vibes', 'Times New Roman', serif;
@@ -40,19 +55,11 @@ Notes:	 building a bootstrap website for Rodrigo Rodriguez
 .under-logo{
     color: white;
 }
-.learn-more h3{
-   
-    font-family: 'Great Vibes', 'Times New Roman', serif;
-   
-    
-    
-}
+
 .fa{
    
 }
 h1{
-    
-    
     /*font-family: 'Great Vibes', 'Times New Roman', serif;*/
     /*font-family: 'museo-sans', 'Helvetica Neue', Times, serif;*/
     
@@ -61,10 +68,13 @@ h1{
     /*text-shadow: 2px 2px 4px #ccc;*/
     margin: 0;
     color: white;
-
 }
 .company-name{
     letter-spacing: 11px;
+    padding: 5px;
+}
+.white-text{
+    color: white;
 }
 h2{
    
@@ -78,7 +88,7 @@ h4{
    
 }
 hr{
-    margin-top: 30px;
+    margin-top: 35px;
     border-color: white;
 
 }
@@ -133,6 +143,8 @@ hr{
     hr {
         margin-top: 20px;
     }
+ 
+  
 }
 @media(max-width: 768px){
     h1{
@@ -147,10 +159,15 @@ hr{
     .main-footer .socials-container ul li a{
     color: white;
     }
+    .background-box{
+        background: rgba(0,0,0,0);
+    }
+    
 }
 @media(max-width: 480px){
     h1{
         font-size: 2em;
+       
     }
     h2{
         font-size: 3em;
@@ -164,4 +181,28 @@ hr{
     h3{
         color: white;
     }
+    #video{
+        height: 300px;
+    }
+    .video{
+        height: 100%;
+    }
+    .background-box{
+        background: rgba(0,0,0,0);
+    }
+    .section-title h1{
+        color: rgb(35, 50, 58);
+        color: white;
+        padding: 0;
+        margin: 0;
+        font-size: 3em;
+     
+    }
+
+    .section-title h3{
+        color: white;
+        font-size: 2em;
+
+    }
+
 }

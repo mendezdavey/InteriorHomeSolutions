@@ -3,19 +3,20 @@
                     <div class="row">
                         <div class="col-md-3 align-center">
                             <div class="logo-container wow fadeInLeft">
-                                <a href="#">
+                                <a href="index.php">
                                     <h3>Interior Home Solutions</h3>
                                     <h4>Custom Cabinets and Interior Trim</h4>
                                 </a>
                             </div><!-- /logo-container -->
                             <div class="socials-container">
                                 <ul>
-                                    <li class="wow fadeInLeft"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li class="wow fadeInLeft"><a href="https://www.facebook.com/Interior-Home-Solutions-290618974400909/"><i class="fa fa-facebook"></i></a></li>
+                                    <!-- ADD LATER
                                     <li class="wow fadeInLeft" data-wow-delay="0.1s"><a href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li class="wow fadeInLeft" data-wow-delay="0.2s"><a href="#"><i class="fa fa-skype"></i></a></li>
                                     <li class="wow fadeInLeft" data-wow-delay="0.3s"><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                     <li class="wow fadeInLeft" data-wow-delay="0.4s"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li class="wow fadeInLeft" data-wow-delay="0.5s"><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                    <li class="wow fadeInLeft" data-wow-delay="0.5s"><a href="#"><i class="fa fa-instagram"></i></a></li>-->
                                 </ul>
                             </div><!-- /socials-container -->
                         </div><!-- /col-md-3 -->
@@ -36,21 +37,19 @@
                         <div class="col-md-3 wow fadeInRight">
                             <div class="address-container">
                                 <address>
-                                    <img src="img/template-assets/map-pin.png" alt="Marine Food Address">
+                                    <img src="img/template-assets/map-pin.png" alt="Interior Home Solutions Area of Operations">
                                     <p>
                                         <span>Interior Home Solutions</span>
-                                        <span>1234 Cabinet Dr.</span>
-                                        <span>Cabinet Street, Austin</span>
-                                        <span>Austin, Texas USA</span>
+                                        <span>Austin, Texas 78753</span>
                                     </p>
-                                    <img src="img/template-assets/phone-icon.png" alt="Marine Food Address">
+                                    <img src="img/template-assets/phone-icon.png" alt="Interior Home Solutions Phone Number">
                                     <p>
-                                        <span>Phone: (512) 124-5678</span>
-                                        <span>Fax: (512) 124-5678</span>
+                                        <span>Phone: <a href="tel://512-486-9996">(512) 486-9996</a></span>
+                      
                                     </p>
-                                    <img src="img/template-assets/mail-icon2.png" alt="Marine Food Address">
+                                    <img src="img/template-assets/mail-icon2.png" alt="Interior Home Solutions Email Address">
                                     <p>
-                                        <span>owner@interiorhomesolutions.com</span>
+                                        <span><a href="mailto:interiorhomesolutions@yahoo.com">interiorhomesolutions@yahoo.com</a></span>
                                     </p>
                                 </address>
                             </div><!-- /address-container -->
